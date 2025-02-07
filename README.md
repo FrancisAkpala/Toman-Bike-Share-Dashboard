@@ -46,6 +46,33 @@ Timeline
 
 Preliminary Version: ASAP (as per client's request).
 
+
+
+
+
+📌 Recommendation
+Pricing Strategy Recommendation for Toman Bike Share
+After conducting an in-depth analysis of hourly revenue, profit and revenue trends, seasonal revenue, and rider demographics, we recommend a conservative price adjustment strategy to optimize revenue while maintaining customer retention.
+
+Price Adjustment Analysis:
+The current price in 2022 was $4.99.
+A 10% increase would set the new price at approximately $5.49.
+A 15% increase would set the new price at approximately $5.74.
+Recommended Strategy:
+Market Analysis:
+
+Conduct further research on customer satisfaction, competitive pricing, and economic trends to determine the most sustainable increase.
+Evaluate the impact of the new pricing on demand elasticity before full implementation.
+Segmented Pricing Strategy:
+
+Implement different pricing models for casual riders versus registered users, considering their price sensitivity and usage frequency.
+Offer incentives such as discounts or loyalty programs for long-term subscribers.
+Monitor and Adjust:
+
+Gradually implement price changes and analyze customer feedback to avoid a decline in demand.
+Use real-time sales data to track revenue impact and make necessary adjustments before finalizing the pricing strategy.
+By following these recommendations, Toman Bike Share can achieve sustainable revenue growth while ensuring an optimal balance between profitability and customer retention. 🚴💰
+
 Final Version: Based on the complexity of data and analysis required.
 
 Business Recommendation
